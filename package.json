@@ -1,0 +1,27 @@
+{
+  "name": "leoapp",
+  "version": "1.0.0",
+  "description": "Fresh off the boat in using Express.js",
+  "main": "justme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elubdynasty/leoapp.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "Leonard Luzon <leonard_luzon2000@yahoo.com> (http://www.twitter.com/thelibraleo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elubdynasty/leoapp/issues"
+  },
+  "homepage": "https://github.com/elubdynasty/leoapp#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
